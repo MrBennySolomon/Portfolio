@@ -19,6 +19,10 @@
   color: #333;
   background-color: #f4f4f4; }
 
+  #my-btn {
+    border: 3px solid #ffbc00;
+  }
+
 .btn-dark {
   color: #f4f4f4;
   background-color: #333; }
@@ -479,3 +483,5 @@ img {
 @media (max-height: 330px) {
   #header-home .header-content h1 {
     font-size: 2rem; } }
+
+    
