@@ -403,6 +403,7 @@ img {
     align-items: center; }
     #main-footer .footer-content .social .fab {
       margin-right: 1rem;
+      background-color: #fff;
       border: 2px #fff solid;
       border-radius: 50%;
       height: 20px;
